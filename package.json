@@ -1,11 +1,11 @@
 {
-  "name": "calculator",
+  "name": "ci-calculator-app",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://ahfarmer.github.io/calculator",
+  "homepage": "http://albertusangkuw/ci-calculator-app",
   "devDependencies": {
     "chai": "^4.2.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "prettier": "^1.17.1",
     "react-scripts": "^3.0.1"
   },
